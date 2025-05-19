@@ -1,4 +1,10 @@
-## Hi there 👋 This is under construction.
+## Hi. Hallo. Hola. Salam. I'm Sohail Jannessari and...this is under construction.
+
+Data Analyst & Political Scientist with a multidisciplinary background in quantitative methods, international politics, and journalism. I specialize in making political and social data understandable and actionable—whether in the classroom, in policy analysis, or for broader audiences through writing and media.
+
+I am currently trying to change track, moving from writing and teaching, to the "real" world. This is not so much a new venue, rather than a sort of a return — Back to the Future or something. I finished a Data Science course at TechLabs Dusseldorf a couple of months ago, and am now undertaking their Deep Learning track.
+
+I'm also attending an intensive German course in Mönchengladbach at the moment, hoping to reach B2 by the end of 2025, so...KEIN STRESS!
 
 <!--
 **SohailJannessari/SohailJannessari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
